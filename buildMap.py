@@ -26,4 +26,4 @@ for index, row in data.iterrows():
 
 map.add_child(fg)
 
-map.save("templates/Map.html")
+map.save("Map2.html")
